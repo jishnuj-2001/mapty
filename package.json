@@ -1,0 +1,15 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Workout adding and routing map",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Jishnu J",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.2"
+  }
+}
